@@ -28,6 +28,8 @@ Una vez creada la tarea, podrá moverla cuantas veces desee el usuario para acom
 
 ![alt text](./ejemplo.PNG "Logo Title Text 1")
 
+Si a la tarea de **TODO** se le clickea la flechita que tiene a su izquierda, esta pasará a la columna del medio. Luego, podría volver a la columna **TODO** o seguir a **DONE**
+
 ## Instalación y Correr el Proyecto
 
 ##### Para instalar:
