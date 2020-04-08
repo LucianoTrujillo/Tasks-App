@@ -35,7 +35,7 @@ Una vez creada la tarea, podrá moverla cuantas veces desee el usuario para acom
 ##### Para correr:
 1. ejectuar el comando **"npm run start"** dentro de la carpeta del proyecto clonado
 
-Si vas a **localhost:3000** em el navegador ya estara el proyecto corriendo para poder empezar.
+Si vas a **localhost:3000** en el navegador ya estara el proyecto corriendo para poder empezar.
 
 # Éxitos!
 
