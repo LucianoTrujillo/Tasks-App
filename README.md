@@ -24,7 +24,4 @@ La nueva tarea debera aparecer en la columna de **TODO**.
 
 Una vez creada la tarea, podrá moverla cuantas veces desee el usuario para acomodarla donde corresponda. Para pasar de una columna a la otra, deberá aparecer una flechita al lado del nombre de la tarea. Cuando se clickea la flechita, la tarea pasara a la columna que indica la flecha. Ejemplo: 
 
-
-
-
-
+![alt text](./ejemplo.PNG "Logo Title Text 1")
