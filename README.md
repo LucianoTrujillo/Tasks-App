@@ -5,7 +5,7 @@
 
 ##### No se pide tanto foco en el diseño, sino en la creación de componentes y en como se comunican con las props y el estado. Tomatelo con calma, cualquier duda que tengas no dudes en preguntar!
 
-La finalidad del proyecto separar las tareas dependiendo de su estado. Sus estados posibles son:
+La finalidad del proyecto separar las tareas dependiendo de la etapa del proyecto en la que se encuentran. Las etapas posibles son:
 * TODO (todavía no se empezo)
 * DOING (se esta desarrollando la tarea)
 * DONE (la tarea esta completada)
