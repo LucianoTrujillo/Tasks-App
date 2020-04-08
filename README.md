@@ -3,6 +3,8 @@
 
 ##### La idea de este proyecto es poder analizar como el entrevistado completaria las tareas propuestas
 
+###### No se pide tanto foco en el diseño, sino en la creación de componentes y en como se comunican con las props y el estado. Tomatelo con calma, cualquier duda que tengas no dudes en preguntar!
+
 La finalidad del proyecto separar las tareas dependiendo de su estado. Sus estados posibles son:
 * TODO (todavía no se empezo)
 * DOING (se esta desarrollando la tarea)
