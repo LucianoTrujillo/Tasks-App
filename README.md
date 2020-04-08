@@ -28,7 +28,7 @@ Una vez creada la tarea, podrá moverla cuantas veces desee el usuario para acom
 
 ![alt text](./ejemplo.PNG "Logo Title Text 1")
 
-Si a la tarea de **TODO** se le clickea la flechita que tiene a su izquierda, esta pasará a la columna del medio. Luego, podría volver a la columna **TODO** o seguir a **DONE**
+Si a la tarea de *Crear Diseño en la patnalla A* se le clickea la flechita que tiene a su derecha, esta pasará a la columna del medio (**DOING**). Luego, podría volver a la columna **TODO** o seguir a **DONE**
 
 ## Instalación y Correr el Proyecto
 
