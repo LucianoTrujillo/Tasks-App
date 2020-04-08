@@ -25,3 +25,17 @@ La nueva tarea debera aparecer en la columna de **TODO**.
 Una vez creada la tarea, podrá moverla cuantas veces desee el usuario para acomodarla donde corresponda. Para pasar de una columna a la otra, deberá aparecer una flechita al lado del nombre de la tarea. Cuando se clickea la flechita, la tarea pasara a la columna que indica la flecha. Ejemplo: 
 
 ![alt text](./ejemplo.PNG "Logo Title Text 1")
+
+## Instalación y Correr el Proyecto
+
+##### Para instalar:
+1. **clonar** el repo en tu máquina
+2. ejectuar el comando **"npm install"** dentro de la carpeta del proyecto clonado
+
+##### Para correr:
+1. ejectuar el comando **"npm run start"** dentro de la carpeta del proyecto clonado
+
+Si vas a **localhost:3000** em el navegador ya estara el proyecto corriendo para poder empezar.
+
+# Éxitos!
+
