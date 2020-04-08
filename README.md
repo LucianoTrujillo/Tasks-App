@@ -30,10 +30,10 @@ Una vez creada la tarea, podrá moverla cuantas veces desee el usuario para acom
 
 ##### Para instalar:
 1. **clonar** el repo en tu máquina
-2. ejectuar el comando **"npm install"** dentro de la carpeta del proyecto clonado
+2. ejectuar el comando **"npm install"** dentro de la carpeta *tasks_app*
 
 ##### Para correr:
-1. ejectuar el comando **"npm run start"** dentro de la carpeta del proyecto clonado
+1. ejectuar el comando **"npm run start"** dentro de la carpeta *tasks_app*
 
 Si vas a **localhost:3000** en el navegador ya estara el proyecto corriendo para poder empezar.
 
